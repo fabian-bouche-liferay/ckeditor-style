@@ -1,0 +1,4 @@
+Bundle-Name: style-ckeditor
+Bundle-SymbolicName: com.liferay.samples.fbo.ckeditor.styles
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.samples.fbo.ckeditor.styles.api
